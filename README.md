@@ -17,7 +17,7 @@ Soy estudiante de DAM y llevo algunos años estudiando diferentes lenguajes de p
 
 Aunque aún no he tenido la oportunidad de desarrollarme en un entorno laboral, sí he realizado una gran cantidad de cursos, cada uno con sus respectivos proyectos. Esto me ha permitido adquirir suficiente práctica para emprender el siguiente proyecto personal:
 
-<span style="color:blue">APLICACIÓN DE GESTIÓN DE ENTRENAMIENTOS CON CONTROL DE USUARIOS</span>
+#--- APLICACIÓN DE GESTIÓN DE ENTRENAMIENTOS CON CONTROL DE USUARIOS
 
 Se trata de una aplicación donde se pueden crear entrenamientos y asignarlos a los usuarios. Presenta una arquitectura basada en microservicios, donde se integra a la aplicación principal construida con React una API que gestiona los usuarios mediante Spring Boot y JWT. Por otro lado, otra API se encarga de la gestión de los entrenamientos a través de la conexión mediante Spring Boot a MongoDB.
 
