@@ -15,7 +15,7 @@ Soy estudiante de DAM y llevo algunos años estudiando diferentes lenguajes de p
 
 ## Proyectos Destacados ✨
 
-Aunque aún no he tenido la oportunidad de desarrollarme en un entorno laboral, sí he realizado una gran cantidad de cursos, cada uno con sus respectivos proyectos. Esto me ha permitido adquirir suficiente práctica para emprender el siguiente proyecto personal:
+Aunque aún no he tenido la oportunidad de desarrollarme en un entorno laboral, sin embargo he realizado una gran cantidad de cursos, cada uno con sus respectivos proyectos. Esto me ha permitido adquirir suficiente práctica para emprender el siguiente proyecto personal:
 
 -- APLICACIÓN DE GESTIÓN DE ENTRENAMIENTOS CON CONTROL DE USUARIOS --
 
