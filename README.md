@@ -17,7 +17,7 @@ Soy estudiante de DAM y llevo algunos años estudiando diferentes lenguajes de p
 
 Aunque aún no he tenido la oportunidad de desarrollarme en un entorno laboral, sí que he realizado una gran cantidad de cursos, cada uno con sus respectivos proyectos. Esto me ha permitido adquirir suficiente práctica para emprender el siguiente proyecto personal:
 
-![APLICACIÓN DE GESTIÓN DE ENTRENAMIENTOS CON CONTROL DE USUARIOS](https://img.shields.io/badge/APLICACIÓN%20DE%20GESTIÓN%20DE%20ENTRENAMIENTOS%20CON%20CONTROL%20DE%20USUARIOS-8A2BE2)
+![APLICACIÓN DE GESTIÓN DE ENTRENAMIENTOS CON CONTROL DE USUARIOS](https://img.shields.io/badge/APLICACIÓN%20DE%20GESTIÓN%20DE%20ENTRENAMIENTOS%20CON%20CONTROL%20DE%20USUARIOS-800080)
 
 
 
