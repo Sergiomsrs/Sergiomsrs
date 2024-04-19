@@ -1,30 +1,35 @@
 # Bienvenido a mi perfil de GitHub 👋
 
-¡Hola! Soy [tu nombre], un [tu profesión o área de interés] apasionado por [algo que te apasione]. Aquí encontrarás información sobre mí, mis habilidades y algunos de los proyectos en los que he trabajado.
+¡Hola! Soy Sergio. Aquí encontrarás información sobre mí, mis habilidades y algunos de los proyectos en los que estoy trabajando.
 
 ## Acerca de mí 🧑‍💻
 
-Soy un entusiasta de la tecnología con experiencia en [menciona tus áreas de experiencia o intereses]. Me encanta aprender y enfrentar nuevos desafíos. Además de la tecnología, disfruto [algo que te guste hacer en tu tiempo libre o tus hobbies].
+Soy estudiante de DAM y llevo algunos años estudiando diferentes lenguajes de programación, en especial java y javascript. Me encanta aprender y enfrentar nuevos desafíos. Además de la tecnología, disfruto mucho del deporte y las actividades al aire libre.
 
 ## Habilidades y Tecnologías 🚀
 
-- **Lenguajes de Programación:** Java, Python, JavaScript
-- **Frameworks y Bibliotecas:** React, Node.js, Spring Boot
-- **Bases de Datos:** MySQL, MongoDB
-- **Herramientas de Desarrollo:** Git, Docker, VSCode
+- **Lenguajes de Programación:** Java y JavaScript
+- **Frameworks y Bibliotecas:** React y Spring Boot
+- **Bases de Datos:** MySQL y MongoDB
+- **Herramientas de Desarrollo:** Git, VSCode e Intellij IDEA
 
 ## Proyectos Destacados ✨
 
-Aquí hay una lista de algunos de los proyectos en los que he trabajado:
+Aunque aún no he tenido la oportunidad de desarrollarme en un entorno laboral, sí he realizado una gran cantidad de cursos, cada uno con sus respectivos proyectos. Esto me ha permitido adquirir suficiente práctica para emprender el siguiente proyecto personal:
 
-1. [Nombre del Proyecto 1](enlace al proyecto) - Breve descripción del proyecto.
-2. [Nombre del Proyecto 2](enlace al proyecto) - Breve descripción del proyecto.
-3. [Nombre del Proyecto 3](enlace al proyecto) - Breve descripción del proyecto.
+APLICACIÓN DE GESTIÓN DE ENTRENAMIENTOS CON CONTROL DE USUARIOS
 
-¡Siéntete libre de explorar más proyectos en mi perfil!
+Se trata de una aplicación donde se pueden crear entrenamientos y asignarlos a los usuarios. Presenta una arquitectura basada en microservicios, donde se integra a la aplicación principal construida con React una API que gestiona los usuarios mediante Spring Boot y JWT. Por otro lado, otra API se encarga de la gestión de los entrenamientos a través de la conexión mediante Spring Boot a MongoDB.
+
+
+
+1. [app-training-v.0](https://github.com/Sergiomsrs/app-training-v.0) - Frontend con React y Javascript.
+2. [Wod-Api--Shared](https://github.com/Sergiomsrs/Wod-Api--Shared) - Api con Springboot y MongoDB.
+3. [Usersapp-Api--Shared](https://github.com/Sergiomsrs/Usersapp-Api--Shared) - Api con Springboot, MySql y JWT.
+
 
 ## Contacto 📫
 
-¡No dudes en contactarme si quieres saber más sobre mí o mis proyectos! Puedes encontrarme en [LinkedIn](enlace a tu perfil de LinkedIn) y [Twitter](enlace a tu perfil de Twitter).
+¡No dudes en contactarme si quieres saber más sobre mí o mis proyectos! Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/sergio-mendez-soler-03902aa5/).
 
-¡Gracias por visitar mi perfil! Espero que encuentres algo interesante aquí. 😊
+¡Gracias por visitar mi perfil! 
