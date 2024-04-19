@@ -18,7 +18,8 @@ Soy estudiante de DAM y llevo algunos años estudiando diferentes lenguajes de p
 Aunque aún no he tenido la oportunidad de desarrollarme en un entorno laboral, sí que he realizado una gran cantidad de cursos, cada uno con sus respectivos proyectos. Esto me ha permitido adquirir suficiente práctica para emprender el siguiente proyecto personal:
 
 -- APLICACIÓN DE GESTIÓN DE ENTRENAMIENTOS CON CONTROL DE USUARIOS --
-[![APLICACIÓN DE GESTIÓN DE ENTRENAMIENTOS CON CONTROL DE USUARIOS](https://img.shields.io/badge/APLICACIÓN%20DE%20GESTIÓN%20DE%20ENTRENAMIENTOS%20CON%20CONTROL%20DE%20USUARIOS-azul?style=for-the-badge)](enlace-a-tu-perfil-de-github)
+[![APLICACIÓN DE GESTIÓN DE ENTRENAMIENTOS CON CONTROL DE USUARIOS](https://img.shields.io/badge/APLICACIÓN%20DE%20GESTIÓN%20DE%20ENTRENAMIENTOS%20CON%20CONTROL%20DE%20USUARIOS-%23000000?style=for-the-badge&logoColor=white&labelColor=black)]
+
 
 Se trata de una aplicación donde se pueden crear entrenamientos y asignarlos a los usuarios. Presenta una arquitectura basada en microservicios, donde se integra a la aplicación principal construida con React una API que gestiona los usuarios mediante Spring Boot y JWT. Por otro lado, otra API se encarga de la gestión de los entrenamientos a través de la conexión mediante Spring Boot a MongoDB.
 
