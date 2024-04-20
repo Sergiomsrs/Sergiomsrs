@@ -24,7 +24,7 @@ Aunque aún no he tenido la oportunidad de desarrollarme en un entorno laboral, 
 
 Se trata de una aplicación donde se pueden crear entrenamientos y asignarlos a los usuarios. Presenta una arquitectura basada en microservicios, donde se integra a la aplicación principal construida con React una API que gestiona los usuarios mediante Spring Boot y JWT. Por otro lado, otra API se encarga de la gestión de los entrenamientos a través de la conexión mediante Spring Boot a MongoDB.
 
-![Mi Imagen](/AppTraining.webp)
+![imagenApp](/AppTraining.webp)
 
 1. [app-training-v.0](https://github.com/Sergiomsrs/app-training-v.0) - Frontend con React y Javascript.
 2. [Wod-Api--Shared](https://github.com/Sergiomsrs/Wod-Api--Shared) - Api con Springboot y MongoDB.
