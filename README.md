@@ -20,9 +20,9 @@ Aunque aún no he tenido la oportunidad de desarrollarme en un entorno laboral, 
 
 ![Workschedflow - APLICACIÓN DE GESTION DE EQUIPOS DE TRABAJO](https://img.shields.io/badge/APLICACIÓN%20DE%20GESTIÓN%20DE%20EQUIPOS%20DE%20TRABAJO-2d259c)
 
-WorkSchedFlow es una prueba de concepto diseñada para facilitar la gestión de turnos de trabajo. Su objetivo principal es cubrir las necesidades de los gestores de equipos, brindando una herramienta que simplifica el diseño de horarios. Actualmente se encuentra en desarrollo y en el siguiente enlace puedes acceder a una versiona de demostración del proyecto.
+WorkSchedFlow es una prueba de concepto diseñada para facilitar la gestión de turnos de trabajo. Su objetivo principal es cubrir las necesidades de los gestores de equipos, brindando una herramienta que simplifica el diseño de horarios. Actualmente se encuentra en desarrollo y en el siguiente enlace puedes acceder a una versión de demostración del proyecto.
 
-[Workschedflow-demo](https://sergiomsrs.github.io/workschedflow-demo/) - Accede a la demo.
+[Workschedflow](https://sergiomsrs.github.io/workschedflow-demo/) - Accede a la demo.
 
 ![imagenApp](/workschedflow.webp)
 
