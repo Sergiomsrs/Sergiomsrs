@@ -18,7 +18,7 @@ Soy estudiante de DAM y llevo algunos años estudiando diferentes lenguajes de p
 Aunque aún no he tenido la oportunidad de desarrollarme en un entorno laboral, sí que he realizado una gran cantidad de cursos, cada uno con sus respectivos proyectos. Esto me ha permitido adquirir suficiente práctica para emprender los siguientes proyectos:
 
 
-![Workschedflow - APLICACIÓN DE GESTION DE EQUIPOS DE TRABAJO](https://img.shields.io/badge/APLICACIÓN%20DE%20GESTIÓN%20DE%20EQUIPOS%20DE%20TRABAJO-2d259c)
+![Workschedflow - SOFTWARE DE GESTION DE EQUIPOS DE TRABAJO](https://img.shields.io/badge/APLICACIÓN%20DE%20GESTIÓN%20DE%20EQUIPOS%20DE%20TRABAJO-2d259c)
 
 WorkSchedFlow es una prueba de concepto diseñada para facilitar la gestión de turnos de trabajo. Su objetivo principal es cubrir las necesidades de los gestores de equipos, brindando una herramienta que simplifica el diseño de horarios. Actualmente se encuentra en desarrollo y en el siguiente enlace puedes acceder a una versión de demostración del proyecto.
 
