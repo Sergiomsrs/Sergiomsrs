@@ -29,7 +29,7 @@ WorkSchedFlow es una prueba de concepto diseñada para facilitar la gestión de 
 
 ![MyClass360 - App de gestión y recursos para profesores.](https://img.shields.io/badge/APP%20DE%20GESTIÓN%20Y%20RECURSOS%20PARA%20PROFESORES-2d259c)
 
-MyClass360 es un sistema integral diseñado para la gestión eficiente de alumnos, clases y tareas. Su objetivo objetivo es simplificar la organización educativa y facilitar recursos a los docentes. Primer recurso disponible: Generador de Sopa de Letras: Crea sopas de letras personalizadas de forma instantánea, listas para imprimir o compartir con tus estudiantes.
+MyClass360 es un sistema integral diseñado para la gestión eficiente de alumnos, clases y tareas. Su objetivo es simplificar la organización educativa y facilitar recursos a los docentes. Primer recurso disponible: Generador de Sopa de Letras: Crea sopas de letras personalizadas de forma instantánea, listas para imprimir o compartir con tus estudiantes.
 
 [MyClass360](https://sergiomsrs.github.io/MyClass360-AngularUI/) - Accede a la demo.
 
