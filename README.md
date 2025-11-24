@@ -24,7 +24,7 @@ WorkSchedFlow es una prueba de concepto diseñada para facilitar la gestión de 
 
 [Workschedflow](https://sergiomsrs.github.io/prueba-concepto-gestorTurnos/) - Accede a la demo.
 
-![imagenApp](/workschedflow.webp)
+![imagenApp](/roster-page-wsf.webp)
 
 
 ![APLICACIÓN DE GESTIÓN DE ENTRENAMIENTOS CON CONTROL DE USUARIOS](https://img.shields.io/badge/APLICACIÓN%20DE%20GESTIÓN%20DE%20ENTRENAMIENTOS%20CON%20CONTROL%20DE%20USUARIOS-2d259c)
