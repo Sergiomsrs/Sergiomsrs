@@ -39,7 +39,15 @@ MyClass360 es un sistema integral diseñado para la gestión eficiente de alumno
 
 ![imagenApp](/my-class-360-landing.webp)
 
+![Name-Game - App de selección de nombres.](https://img.shields.io/badge/APP%20DE%20SELECCIÓN%20DE%20NOMBRES%20PARA%20BEBES-2d259c)
 
+Name Game es una mini app web para descubrir nombres de forma aleatoria.
+La desarrollé como proyecto rápido para practicar JavaScript y experimentar con el apoyo de herramientas de IA en la limpieza y organización de datos, además de mejorar la UX en una interfaz sencilla.
+Deploy en GitHub Pages.
+
+[NAME-GAME](https://sergiomsrs.github.io/name-game/) - Accede a la demo.
+
+![imagenApp](/name-game.webp)
 
 
 
