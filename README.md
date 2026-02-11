@@ -4,7 +4,7 @@
 
 ## Acerca de mí 🧑‍💻
 
-Soy estudiante de DAM y llevo algunos años estudiando diferentes lenguajes de programación, en especial java y javascript. Me encanta aprender y enfrentar nuevos desafíos. Además de la tecnología, disfruto mucho del deporte y las actividades al aire libre.
+Profesional con sólida experiencia en gestión de equipos y organización de tareas, ahora en plena transición hacia el desarrollo de software. Mi trayectoria en entornos exigentes me ha permitido adquirir una fuerte orientación a resultados, habilidades de comunicación y capacidad para coordinar proyectos. Actualmente estoy aplicando esta experiencia al sector tecnológico, combinando mis competencias en management con formación técnica en desarrollo web y aplicaciones.
 
 ## Habilidades y Tecnologías 🚀
 
