@@ -26,9 +26,9 @@ WorkSchedFlow es una prueba de concepto diseñada para facilitar la gestión de 
 [WorkSchedFlow – GitHub Pages](https://sergiomsrs.github.io/prueba-concepto-gestorTurnos/)
 
 🎥 **Vídeo demostración:**  
-[Ver demo en YouTube](https://youtu.be/RifYxP6gKqA)
+[Ver demo en YouTube]([https://youtu.be/RifYxP6gKqA](https://www.youtube.com/watch?v=D1-NKLsTDZ4))
 
-![imagenApp](/roster-page-wsf.webp)
+![imagenApp](/fondo.webp)
 
 
 ![MyClass360 - App de gestión y recursos para profesores.](https://img.shields.io/badge/APP%20DE%20GESTIÓN%20Y%20RECURSOS%20PARA%20PROFESORES-2d259c)
