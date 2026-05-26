@@ -25,8 +25,11 @@ WorkSchedFlow es una prueba de concepto diseñada para facilitar la gestión de 
 👉 **Demo online:**  
 [WorkSchedFlow – GitHub Pages](https://sergiomsrs.github.io/prueba-concepto-gestorTurnos/)
 
-🎥 **Vídeo demostración:**  
-[Ver demo en YouTube]([https://youtu.be/RifYxP6gKqA](https://www.youtube.com/watch?v=D1-NKLsTDZ4))
+### 🎥 Vídeo demostración
+
+[![Introducción a WorkShedFlow](https://img.youtube.com/vi/D1-NKLsTDZ4/maxresdefault.jpg)](https://www.youtube.com/watch?v=D1-NKLsTDZ4)
+
+_Haz clic en la imagen o [aquí](https://www.youtube.com/watch?v=D1-NKLsTDZ4) para ver la presentación del proyecto en YouTube._
 
 ![imagenApp](/fondo.webp)
 
